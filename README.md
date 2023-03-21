@@ -40,7 +40,7 @@ Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-g
 
 Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
-## Usage
+<!-- ## Usage
 
 **github action**
 
@@ -100,4 +100,4 @@ npm run dev:demo
 
 ## Implementation
 
-[solver algorithm](./packages/solver/README.md)
+[solver algorithm](./packages/solver/README.md) -->
