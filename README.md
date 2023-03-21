@@ -9,8 +9,6 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-
-
   <source
     media="(prefers-color-scheme: dark)"
    srcset="
