@@ -1,4 +1,6 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
+
+<table  align="right">
 <tr><td><ahref="./README_EN.md">:us: English</a></td></tr>
 
 <tr><td><ahref="./README.md">:brazil: Português</a></td></tr>
