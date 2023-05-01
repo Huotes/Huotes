@@ -21,3 +21,52 @@
   />
 </picture>
 
+<details>
+
+<summary><strong>`🛠 &nbsp;Skills`</strong></summary>
+
+<br />
+
+- Linguagens
+
+<div style="display: inline_block">
+
+<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+
+<img align="center" alt="CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+
+</div>
+
+<br />
+
+- Frontend
+
+<div style="display: inline_block">
+
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+
+</div>
+
+<br />
+
+- Backend
+
+<div style="display: inline_block">
+
+<img align="center" alt="Mysql" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+</div>
+
+<br />
+
+- Outras tecnologias
+
+<div style="display: inline_block">
+
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+</div>
+
+</details>
