@@ -1,7 +1,7 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
 
-<h1  align="center">Salve! 👋, Bora criar um jogo?</h1>
+<h1  align="center">Salve! Bora criar um jogo? 👾</h1>
 
 
 <picture>
@@ -27,35 +27,27 @@
 
 <br />
 
+- Programas
+
+<div style="display: inline_block">
+
+<img align="center" alt="UNITY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"/>
+
+<img align="center" alt="UNREAL" height="30" width="40" src="https://github.com/EpicKiwi/unreal-engine-editor-icons/blob/master/imgs/About/UE4Icon.png"/>
+  
+ <img align="center" alt="UNREAL" height="30" width="40" src="https://github.com/bytecauldron/awesome-gamemaker/blob/main/images/gamemaker_logo_64.svg"/>
+
+</div>
+
+<br />
+
 - Linguagens
 
 <div style="display: inline_block">
 
-<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-
 <img align="center" alt="CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 
-</div>
-
-<br />
-
-- Frontend
-
-<div style="display: inline_block">
-
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-
-</div>
-
-<br />
-
-- Backend
-
-<div style="display: inline_block">
-
-<img align="center" alt="Mysql" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="C++" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" />
 
 </div>
 
