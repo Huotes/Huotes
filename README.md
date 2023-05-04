@@ -30,45 +30,19 @@
 </div>
 
 
-<details>
+<div align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+
+<br />
+
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=huotes&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
+</div>
   
- 
-<summary><strong>`🛠 &nbsp;Skills`</strong></summary>
-
-<br />
-
-- Programas
-
-<div style="display: inline_block">
-
-<img align="center" alt="UNITY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"/>
-
-<img align="center" alt="UNREAL" height="30" width="40" src="https://github.com/EpicKiwi/unreal-engine-editor-icons/blob/master/imgs/About/UE4Icon.png"/>
-  
- <img align="center" alt="UNREAL" height="30" width="40" src="https://github.com/bytecauldron/awesome-gamemaker/blob/main/images/gamemaker_logo_64.svg"/>
-
+<div align="center">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,cs,java,javascript,html,lua,git,python,gamemakerstudio,unity,unreal,godot" />
+    </a>
 </div>
-
-<br />
-
-- Linguagens
-
-<div style="display: inline_block">
-
-<img align="center" alt="CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-
-<img align="center" alt="C++" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
-
-</div>
-
-<br />
-
-- Outras tecnologias
-
-<div style="display: inline_block">
-
-<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-</div>
-
-</details>
