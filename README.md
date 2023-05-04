@@ -20,8 +20,19 @@
   />
 </picture>
 
-<details>
+<p>Meu nome é Athos Aurélio, sou Técnico em Análise e desenvolvimento de sistemas – ETEC. E também programador de jogos.</p>
+<p>Atuo na área de programação de jogos desde meus 15 anos e atualmente faço jogos sobre encomenda.</p>
 
+<div>
+<a href="https://github.com/huotes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huotes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=huotes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+<details>
+  
+ 
 <summary><strong>`🛠 &nbsp;Skills`</strong></summary>
 
 <br />
