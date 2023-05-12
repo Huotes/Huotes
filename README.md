@@ -1,7 +1,7 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
 
-<h1  align="center">Salve! Bora criar um jogo? 👾</h1>
+<h1  align="center">Save! Let's create a game? 👾</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
