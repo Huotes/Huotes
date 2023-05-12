@@ -24,7 +24,7 @@
 <p>Atuo na área de programação de jogos desde meus 15 anos e atualmente faço jogos sobre encomenda.</p>
 <p>Também dou aulas sobre programação voltada para criação de jogos utilizando a linguagem GML.</p>
 
-<div>
+<div align="center">
 <a href="https://github.com/huotes">
 <img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huotes&layout=compact&langs_count=7&theme=synthwave"/>
 <img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=huotes&theme=synthwave" />
