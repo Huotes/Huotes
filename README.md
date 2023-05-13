@@ -25,7 +25,7 @@
   </p>
 </samp>
 
-<h1  align="center">Save! Let's create a game? 👾</h1>
+<h1  align="center">Let's create a game? 👾</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
