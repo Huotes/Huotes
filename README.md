@@ -19,6 +19,10 @@
         <img src="https://img.shields.io/badge/Twitch-1a1b27?style=for-the-badge&logo=twitch&logoColor=9644CD" alt="Itch.io">
     </a>
     </a>
+        <a href="https://www.youtube.com/channel/UCgrzS3MuQWp7qTiw5YwuceA" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Youtube-1a1b27?style=for-the-badge&logo=Youtube&logoColor=9644CD" alt="Itch.io">
+    </a>
+    </a>
         <a href="https://huotes.itch.io/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/itch.io-1a1b27?style=for-the-badge&logo=itch.io&logoColor=9644CD" alt="Itch.io">
     </a>
