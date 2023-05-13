@@ -1,5 +1,19 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
+<samp>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/athos-aurélio-551646229/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="Linkedin">
+    </a>
+    <a href="https://www.instagram.com/huotes" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=Instagram&logoColor=9644CD" alt="Behance">
+    </a>
+    </a>
+        <a href="https://huotes.itch.io/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/itch.io-1a1b27?style=for-the-badge&logo=itch.io&logoColor=9644CD" alt="Itch.io">
+    </a>
+  </p>
+</samp>
 
 <h1  align="center">Save! Let's create a game? 👾</h1>
 
