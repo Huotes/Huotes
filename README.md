@@ -1,6 +1,6 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9644CD&center=true&vCenter=true&width=1000&lines=Save%2C+my+name+is+Athos+Aurélio;I+am+Game+Developer+and+Game+Designer;And+GameMaker+Studio+Master;Welcome+to+my+Github+:%29)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9644CD&center=true&vCenter=true&width=1000&lines=Save%2C+my+name+is+Athos+Aurélio;I+am+Game+Developer+and+Game+Designer;And+GameMaker+Studio+Master+too;Welcome+to+my+Github+:3)
 
 <samp>
   <p align="center">
