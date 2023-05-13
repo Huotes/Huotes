@@ -1,3 +1,5 @@
+<h1  align="center">Let's create a game? 👾</h1>
+
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://thumbs.gfycat.com/ImmenseTenderHaddock-size_restricted.gif)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9644CD&center=true&vCenter=true&width=1000&lines=Save%2C+my+name+is+Athos+Aurélio;I+am+Game+Developer+and+Game+Designer;And+GameMaker+Studio+Master+too;Welcome+to+my+Github+:3)
@@ -29,7 +31,6 @@
   </p>
 </samp>
 
-<h1  align="center">Let's create a game? 👾</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
