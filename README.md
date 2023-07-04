@@ -49,9 +49,9 @@
   />
 </picture>
 
-<p>Meu nome é Athos Aurélio, sou Técnico em Análise e desenvolvimento de sistemas – ETEC. E também programador de jogos.</p>
-<p>Atuo na área de programação de jogos desde meus 15 anos e atualmente faço jogos sobre encomenda.</p>
-<p>Também dou aulas sobre programação voltada para criação de jogos utilizando a linguagem GML.</p>
+<p>My name is Athos Aurélio, I am a Systems Analysis and Development Technician – ETEC. And also a game programmer.</p>
+<p>I've been working in the game programming area since I was 14 years old and I currently make custom games and requisitions.</p>
+<p>Also apply mentoring on programming aimed at creating games using the GML and GDscript languages.</p>
 
 <div align="center">
 <a href="https://github.com/huotes">
