@@ -49,10 +49,6 @@
   />
 </picture>
 
-<p>My name is Athos Aurélio, I am a Systems Analysis and Development Technician – ETEC. And also a game programmer.</p>
-<p>I've been working in the game programming area since I was 14 years old and I currently make custom games and requisitions.</p>
-<p>Also apply mentoring on programming aimed at creating games using the GML and GDscript languages.</p>
-
 <div align="center">
 <a href="https://github.com/huotes">
 <img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huotes&layout=compact&langs_count=7&theme=synthwave"/>
