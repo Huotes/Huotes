@@ -68,6 +68,6 @@
 <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,cpp,javascript,git,gamemakerstudio,unity,unreal,godot" />
+      <img src="https://skillicons.dev/icons?i=python,cs,cpp,javascript,git,gamemakerstudio,unity,unreal,godot" />
     </a>
 </div>
