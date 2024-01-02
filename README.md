@@ -1,4 +1,4 @@
-<h1  align="center">Let's create a game? 👾</h1>
+<h1  align="center">👾 Let's create a game? 👾</h1>
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif">
