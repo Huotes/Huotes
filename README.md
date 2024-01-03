@@ -1,7 +1,7 @@
 <h1  align="center">👾 Let's create a game? 👾</h1>
 
 <div align="center">
-<img src="https://i.kym-cdn.com/photos/images/original/001/169/608/a43.gif">
+<img src="https://64.media.tumblr.com/db7c88e815018772d0320b0bdd413fbb/tumblr_p8tymcDzQN1qciqqno2_1280.gifv">
 </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF007F&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Athos+Aurélio;I+am+Game+Developer+and+Game+Designer;And+GameMaker+Studio+Master+too;Welcome+to+my+Github+:3)
