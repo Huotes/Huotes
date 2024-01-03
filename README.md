@@ -53,8 +53,8 @@
 
 <div align="center">
 <a href="https://github.com/huotes">
-<img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huotes&layout=compact&langs_count=7&theme=shadow_red"/>
-<img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=huotes&theme=shadow_red" />
+<img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huotes&layout=compact&langs_count=7&theme=omni"/>
+<img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=huotes&theme=omni" />
 </div>
 
 
@@ -64,7 +64,7 @@
 <br />
 
 <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=huotes&theme=shadow_red&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=huotes&theme=omni&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
 </div>
   
 <div align="center">
