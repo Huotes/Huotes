@@ -4,7 +4,7 @@
 <img src="https://64.media.tumblr.com/db7c88e815018772d0320b0bdd413fbb/tumblr_p8tymcDzQN1qciqqno2_1280.gifv">
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF007F&center=true&vCenter=true&width=1000&lines=Hello+bawerz%2C+my+name+is+Athos+Aurélio;I+am+a+Game+Developer+and+Game+Designer;Welcome+to+my+Github+:3)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF007F&center=true&vCenter=true&width=1000&lines=Hey+bawerz%2C+my+name+is+Athos+Aurélio;I+am+a+Game+Developer+and+Game+Designer;Welcome+to+my+Github+:3)
 
 <samp>
   <p align="center">
