@@ -4,7 +4,7 @@
 <img src="https://64.media.tumblr.com/db7c88e815018772d0320b0bdd413fbb/tumblr_p8tymcDzQN1qciqqno2_1280.gifv">
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF007F&center=true&vCenter=true&width=1000&lines=Hey+bawer%2C+my+name+is+Athos+Aurélio;I+am+a+Game+Developer+and+Game+Designer;Welcome+to+my+Github+:3)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF007F&center=true&vCenter=true&width=1000&lines=Hey+bawer%2C+my+name+is+Athos+Aurélio;I+am+a+Game+Developer+and+Game+Designer;Welcome+to+my+Github)
 
 <samp>
   <p align="center">
@@ -50,6 +50,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huotes205&bg_color=0d1117&color=0b751a&line=02a31a&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <a href="https://github.com/huotes">
