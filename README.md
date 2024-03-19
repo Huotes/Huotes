@@ -72,6 +72,6 @@
 <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,c,cpp,lua,html,css,javascript,git,gamemakerstudio,unreal,godot" />
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,html,css,javascript,git,gamemakerstudio,unreal,godot" />
     </a>
 </div>
