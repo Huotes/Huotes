@@ -8,23 +8,8 @@
 
 <samp>
   <p align="center">
-     </a>
-        <a href="https://twitter.com/huotes/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Twitter-1a1b27?style=for-the-badge&logo=twitter&logoColor=FF007F" alt="Itch.io">
-    </a>
     <a href="https://www.linkedin.com/in/athosaurelio/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=FF007F" alt="Linkedin">
-    </a>
-    <a href="https://www.instagram.com/huotes" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=Instagram&logoColor=FF007F" alt="Behance">
-    </a>
-     </a>
-        <a href="https://https://www.twitch.tv/huotes" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Twitch-1a1b27?style=for-the-badge&logo=twitch&logoColor=FF007F" alt="Itch.io">
-    </a>
-    </a>
-        <a href="https://www.youtube.com/channel/UCgrzS3MuQWp7qTiw5YwuceA" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Youtube-1a1b27?style=for-the-badge&logo=Youtube&logoColor=FF007F" alt="Itch.io">
     </a>
     </a>
         <a href="https://huotes.itch.io/" target="_blank" style="text-decoration: none;">
