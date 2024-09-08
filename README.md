@@ -57,6 +57,6 @@
 <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,html,css,javascript,git,gamemakerstudio,godot" />
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,html,css,javascript,typescript,git,gamemakerstudio,godot" />
     </a>
 </div>
