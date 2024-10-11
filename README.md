@@ -1,4 +1,4 @@
-<h1  align="center">🎰 transforming abstract ideas into concrete solutions 🎰</h1>
+<h1  align="center">🎰 Transforming abstract ideas into concrete solutions 🎰</h1>
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/89/bb/06/89bb06251fb7401e094b1f6d71f3d3f4.gif">
