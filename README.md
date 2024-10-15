@@ -60,3 +60,8 @@
       <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,html,css,javascript,typescript,git,gamemakerstudio,godot" />
     </a>
 </div>
+
+## 🎯 Próximas Metas e Estudos
+- 🌱 Currently studying **Cyber Security** e **DevOps**
+- 🚀 Exploring **Pentesting** e **Malware analysis**
+
