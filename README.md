@@ -61,7 +61,7 @@
     </a>
 </div>
 
-## 🎯 Próximas Metas e Estudos
+## 🎯 Next Goals and Studies
 - 🌱 Currently studying **Cyber Security** e **DevOps**
 - 🚀 Exploring **Pentesting** e **Malware analysis**
 
