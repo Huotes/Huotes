@@ -54,28 +54,28 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=huotes&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
 </div>
   
-## 🛠 Backend Skills
+## 🛠 Backend
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,php,c,cpp,rust,git,sqlite,mysql,postgres,mongodb" alt="Backend Skills" />
   </a>
 </div>
 
-## 🌐 Frontend Skills
+## 🌐 Frontend
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" alt="Frontend Skills" />
   </a>
 </div>
 
-## ☁️ DevOps Skills
+## ☁️ DevOps
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws" alt="DevOps Skills" />
   </a>
 </div>
 
-## 🎮 Game Development Skills
+## 🎮 Game Development
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot" alt="Game Development Skills" />
