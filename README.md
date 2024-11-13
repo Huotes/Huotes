@@ -71,7 +71,7 @@
 ## ☁️ DevOps
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws" alt="DevOps Skills" />
+    <img src="https://skillicons.dev/icons?i=grafana,jenkins,docker,kubernetes,aws" alt="DevOps Skills" />
   </a>
 </div>
 
