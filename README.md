@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/89/bb/06/89bb06251fb7401e094b1f6d71f3d3f4.gif">
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF007F&center=true&vCenter=true&width=1000&lines=Hello+friend%2C+my+name+is+Athos+Aurélio;I+am+a+software+engineer+and+game+developer;Welcome+to+my+Github)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF007F&center=true&vCenter=true&width=1000&lines=Hello+friend%2C+my+name+is+Athos+Aurélio;I'm+happy+that+you+came+across+my+page;I'm+a+software+engineer+and+game+developer;Welcome+to+my+Github)
 
 <samp>
   <p align="center">
