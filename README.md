@@ -49,10 +49,6 @@
 </a> 
 
 <br />
-
-<div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=huotes&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
-</div>
   
 ## 🛠 Backend
 <div align="center">
