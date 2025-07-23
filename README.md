@@ -46,7 +46,7 @@
 ## 🛠 Backend
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,c,cpp,rust,git,sqlite,mysql,postgres,mongodb" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=python,php,go,rust,git,sqlite,mysql,postgres,mongodb" alt="Backend Skills" />
   </a>
 </div>
 
